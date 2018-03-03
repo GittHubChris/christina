@@ -7,6 +7,8 @@
     <title>Art Games - Test</title>
   </head>
   <body bgcolor=lime text=purple>
+    <blockquote> Licitația Caritabilă \"Artiști pentru artiști<br>
+      </blockquote>
     <h1>Write code here</h1>
     <h2>
   </body>
