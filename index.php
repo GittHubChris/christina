@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Art Games - Test</title>
   </head>
-  <body>
+  <body bgcolor=lime text=purple>
     <h1>Write code here</h1>
+    <h2>
   </body>
 </html>
