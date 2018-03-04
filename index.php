@@ -9,6 +9,11 @@
   <body bgcolor=lime text=purple>
     <blockquote> Licitația Caritabilă \"Artiști pentru artiști<br>
       </blockquote>
+    <!--The search form--->
+    <form class="search">
+     <input type="text" class="search-box" id="search" />
+     <input type="submit" class="search-button" value="Search" />
+</form>
     <h1>Write code here</h1>
     <h2>
   </body>
