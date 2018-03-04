@@ -9,4 +9,4 @@ I will use Jekyll which is a static alghoritm which uses the following comannds:
  ~$ cd my-awesome-site
  ~$ bundle exec jekyll serve
  the second task i will use a java script search indexer
- a jquery file where i will use an ajax file for displaying a result easier
+ 
