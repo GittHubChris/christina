@@ -27,8 +27,8 @@ function(global) {
              (Math.round((t-B)*p)+B)).toString(16).slice(1);
                                   }
 
-    global.utils = utils(this);
+    global.utils = utils;
   
-}
+}(this);
 
 
