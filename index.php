@@ -95,6 +95,9 @@
 <h1>Va invitam la o licitatie caritabila organizata de Uniunea Teatrala din Romania</h1>
     <a href=http://www.artmark.ro/lot-alcatuit-din-3-fotografii-portret-ale-marilor-
        actori-amza-pellea-gina-patrichi-si-george-constantin></a>
+    <a href= "img": "http://www.artmark.ro/media/catalog/product/1/_/1_188.jpg"></a>
+       <a href= "img_80": "http://s3-eu-west-1.amazonaws.com/artmark.ro/catalog/product/cache/1/image/120x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_188.jpg"></a>
+<a href="img_250": "http://s3-eu-west-1.amazonaws.com/artmark.ro/catalog/product/cache/1/image/300x/9df78eab33525></a>
     <h2>
   </body>
 </html>
