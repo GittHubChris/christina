@@ -36,9 +36,21 @@
     searchIndex = lunr(function() {
         this.field('id');
         this.field('aname');
-        this.field('description');
+        this.field('aname');
+        this.field('pname');
+        this.field('pdesc');
+        this.field('psdesc');
+        this.field('sku');
         this.ref('url');
         this.field('img_80');
+        this.field('img');
+        this.field('img_250');
+        this.field('all images:[]');
+        this.field('lot_nr');
+        this.field('lot_emin');
+        this.field('lot_emax');
+        this.field('lot_est');
+        this.field('auction');
     });
     <!--Stage 2-->
     <!--add each item from data.json to the index-->
@@ -80,12 +92,9 @@
     });        
 });
     
-
-
-
-
-    <h1>Va invitam la o licitatie caritabila organizata de Uniunea Teatrala din Romania</h1>
-    <a href=http://www.artmark.ro/lot-alcatuit-din-3-fotografii-portret-ale-marilor-actori-amza-pellea-gina-patrichi-si-george-constantin></a>
+<h1>Va invitam la o licitatie caritabila organizata de Uniunea Teatrala din Romania</h1>
+    <a href=http://www.artmark.ro/lot-alcatuit-din-3-fotografii-portret-ale-marilor-
+       actori-amza-pellea-gina-patrichi-si-george-constantin></a>
     <h2>
   </body>
 </html>
